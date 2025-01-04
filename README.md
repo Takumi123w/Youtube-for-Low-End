@@ -8,3 +8,5 @@ useragent spoof
 background play
 
 ![Screenshot_45](https://github.com/user-attachments/assets/2056a401-19c9-4d06-a13d-32cb794ab146)
+
+thanks for force codec made by erkserkserks (https://github.com/erkserkserks)
