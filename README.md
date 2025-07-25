@@ -4,6 +4,7 @@ Echanment for low end device
 - Hide ads with black screen & Mute Ads but not remove Ads
 - Keyboard navigation
 - For better quality video its set to VP8 & VP9 but you can turn it off in pop up
+for that function vp9 was modifed extension from https://github.com/erkserkserks
 - Headbar youtube custom
 
 support with Manifest 3 support
