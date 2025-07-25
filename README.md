@@ -1,4 +1,4 @@
-[Echanment for low end device]
+Echanment for low end device
 - UA android make it faster and light in CPU also not have limit audio like in UA desktop so if combine it with equalizer amplifer with will work better than with desktop UA
 - Background running youtube still play even in background
 - Hide ads with black screen & Mute Ads but not remove Ads
